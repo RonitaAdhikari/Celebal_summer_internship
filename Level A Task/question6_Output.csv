@@ -1,0 +1,4 @@
+ProductID,Name,ProductNumber,MakeFlag,FinishedGoodsFlag,Color,SafetyStockLevel,ReorderPoint,StandardCost,ListPrice,Size,SizeUnitMeasureCode,WeightUnitMeasureCode,Weight,DaysToManufacture,ProductLine,Class,Style,ProductSubcategoryID,ProductModelID,SellStartDate,SellEndDate,DiscontinuedDate,rowguid,ModifiedDate
+1,Adjustable Race,AR-5381,0,0,NULL,1000,750,0.00,0.00,NULL,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,2008-04-30 00:00:00.000,NULL,NULL,694215b7-08f7-4c0d-acb1-d734ba44c0c8,2014-02-08 10:01:36.827
+712,AWC Logo Cap,CA-1098,0,1,Multi,4,3,6.9223,8.99,NULL,NULL,NULL,NULL,0,"S ",NULL,"U ",19,2,2011-05-31 00:00:00.000,NULL,NULL,b9ede243-a6f4-4629-b1d4-ffe1aedc6de7,2014-02-08 10:01:36.827
+879,All-Purpose Bike Stand,ST-1401,0,1,NULL,4,3,59.466,159.00,NULL,NULL,NULL,NULL,0,"M ",NULL,NULL,27,122,2013-05-30 00:00:00.000,NULL,NULL,c7bb564b-a637-40f5-b21b-cbf7e4f713be,2014-02-08 10:01:36.827

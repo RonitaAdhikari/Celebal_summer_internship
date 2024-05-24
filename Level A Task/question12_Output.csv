@@ -1,0 +1,2 @@
+SalesOrderID,SalesOrderDetailID,CarrierTrackingNumber,OrderQty,ProductID,SpecialOfferID,UnitPrice,UnitPriceDiscount,LineTotal,rowguid,ModifiedDate
+55282,55439,A72A-4D3A-BA,26,954,4,1192.035,0.10,27893.619000,8367f191-2b4d-4018-abde-fb33def3ecee,2013-08-30 00:00:00.000
